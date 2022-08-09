@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESIGNER", "DESIGNER\DESIGNER.csproj", "{A23474F0-1D7C-492E-A607-AC815E0070C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{13A39162-7013-4C89-8083-AED05B93662A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{77CC57EA-D625-4998-B633-02A064414E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENTITIES", "ENTITIES\ENTITIES.csproj", "{3559043E-0F59-4139-860D-D5E1486CD6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23474F0-1D7C-492E-A607-AC815E0070C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23474F0-1D7C-492E-A607-AC815E0070C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23474F0-1D7C-492E-A607-AC815E0070C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23474F0-1D7C-492E-A607-AC815E0070C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A39162-7013-4C89-8083-AED05B93662A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A39162-7013-4C89-8083-AED05B93662A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A39162-7013-4C89-8083-AED05B93662A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A39162-7013-4C89-8083-AED05B93662A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CC57EA-D625-4998-B633-02A064414E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CC57EA-D625-4998-B633-02A064414E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CC57EA-D625-4998-B633-02A064414E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CC57EA-D625-4998-B633-02A064414E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3559043E-0F59-4139-860D-D5E1486CD6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3559043E-0F59-4139-860D-D5E1486CD6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3559043E-0F59-4139-860D-D5E1486CD6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3559043E-0F59-4139-860D-D5E1486CD6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
